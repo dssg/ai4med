@@ -36,13 +36,11 @@
 ### Tools
  - Google colab for python and sql coding and visualization
 
-### Readings
-
-
-
 ## Presentation Slides
 [Google slides](https://docs.google.com/presentation/d/1Bk8Yekf7cBXFCMYb-1tN3NNmi9EyC_V3/edit#slide=id.p1)
 
+## Colab Notebook for Class and Homework Assignment
+[colab notebook](explore_emr.ipynb) in python
 
 ## Sample Data Used
 We'll be using a sample of 10000 patients from MIMIC III
