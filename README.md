@@ -16,16 +16,20 @@
  - Patient retention in care
 
 3. Building AI Systems to Support Clinical Decision-Making
- - Scoping
- - Formulation
- - Initial Model Development
+ - Scoping ([Scoping Guide](http://www.datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
+ - Data
+ - Analytical Formulation
+ - Baselines
+ - Model Development
  - Model Selection
- - User Interfaces
+ - Bias and Fairness
+ - Explainability/Interpretability
+ - User Interfaces 
  - Validation and Testing
  - Deployment
  - Monitoring
 
-4. Hands-on exercises exploring EMR Data using Python and SQL
+4. [Hands-on exercises exploring EMR Data using Python and SQL](explore_emr.ipynb)
  - Exploring EHR data
  - Answering descriptive questions using EHR data
 
@@ -37,7 +41,8 @@
  - Google colab for python and sql coding and visualization
 
 ## Presentation Slides
-[Google slides](https://docs.google.com/presentation/d/1Bk8Yekf7cBXFCMYb-1tN3NNmi9EyC_V3/edit#slide=id.p1)
+ - [Google slides](https://docs.google.com/presentation/d/1Bk8Yekf7cBXFCMYb-1tN3NNmi9EyC_V3/edit#slide=id.p1)
+ - [Key Takeaways](https://docs.google.com/presentation/d/1aqGmefFjk2sbSAhOKrv6lxW02-EML15o/edit#slide=id.p1)
 
 ## Colab Notebook for Class and Homework Assignment
 [colab notebook](explore_emr.ipynb) in python
