@@ -3,7 +3,7 @@
 ## Resources we'll use today
 
 1. [Google slides](https://docs.google.com/presentation/d/1Bk8Yekf7cBXFCMYb-1tN3NNmi9EyC_V3/edit#slide=id.p1)
-2. [colab notebook](https://github.com/dssg/ai4med/blob/main/explore_emr.ipynb) in python
+2. [colab notebook](https://github.com/dssg/ai4med/blob/main/explore_emr.ipynb) in python. [Here is an overview](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) on how to use colab features.
    
 ## What we'll cover
 
