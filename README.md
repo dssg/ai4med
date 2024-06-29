@@ -4,7 +4,8 @@
 
 1. [Google slides](https://docs.google.com/presentation/d/1Bk8Yekf7cBXFCMYb-1tN3NNmi9EyC_V3/edit#slide=id.p1)
 2. [colab notebook](explore_emr.ipynb) in python
-3. 
+
+   
 ## What we'll cover
 
 ### Topics
