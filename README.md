@@ -1,5 +1,10 @@
 # Intro to Using EHR/EMR Data and Using AI to Support Clinical Decision-Making
 
+## Resources we'll use today
+
+1. [Google slides](https://docs.google.com/presentation/d/1Bk8Yekf7cBXFCMYb-1tN3NNmi9EyC_V3/edit#slide=id.p1)
+2. [colab notebook](explore_emr.ipynb) in python
+3. 
 ## What we'll cover
 
 ### Topics
@@ -45,7 +50,7 @@
  - [Key Takeaways](https://docs.google.com/presentation/d/1aqGmefFjk2sbSAhOKrv6lxW02-EML15o/edit#slide=id.p1)
 
 ## Colab Notebook for Class and Homework Assignment
-[colab notebook](explore_emr.ipynb) in python
+- [colab notebook](explore_emr.ipynb) in python
 
 ## Sample Data Used
 We'll be using a sample of 10000 patients from MIMIC III
